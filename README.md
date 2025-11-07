@@ -68,12 +68,6 @@ AI & Machine Learning
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayjay2003&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'rayxworld?t=wVxajOjE9Xn2vYwuLqJbuA&s=09' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=rayxworld?t=wVxajOjE9Xn2vYwuLqJbuA&s=09" /></a>
-</div>
 
 ## 💻 Tech Stack
 
