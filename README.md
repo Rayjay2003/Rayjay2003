@@ -1,19 +1,10 @@
-<div align="center">
+# Raymond fafi
 
-# 🌟 Welcome to Raymond fafi's Profile 🌟
-
-<p><em> I analyze, automate and build - one project at a time</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
-
-## 👀 I'm interested in
-
-<div align="center"><p>AI & Machine Learning
+```typescript
+const profile = {
+  name: "Raymond fafi",
+  bio: " I analyze, automate and build - one project at a time",
+  interests: "AI & Machine Learning
 
  Data Analytics & Automation
 
@@ -23,35 +14,58 @@
 
  SEO & Digital Strategy
 
- Python Programming & Tech Projects</p></div>
+ Python Programming & Tech Projects",
+  skills: [
+    "Next.js",
+    "HTML5",
+    "CSS3",
+    "React",
+    "Tailwind",
+    "Node.js",
+    "Django",
+    "Redis",
+    "SQLite",
+    "Express",
+    "NestJS",
+    "PostgreSQL",
+    "GitHub Actions",
+    "AWS",
+    "PyTorch",
+    "OpenCV",
+    "Pandas",
+    "NumPy",
+    "Hugging Face",
+    "TensorFlow",
+    "Keras",
+    "React Native",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "R",
+    "Java"
+  ],
+}
+```
 
-## 👀 Visitor Count
+## 👀 I'm interested in
 
-<!-- ⚠️ Important: Replace 'Rayjay2003' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Rayjay2003/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+AI & Machine Learning
 
-## 📊 GitHub Stats
+ Data Analytics & Automation
 
-<!-- ⚠️ Important: Replace 'Rayjay2003' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayjay2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+ Web3 & Blockchain
+
+ Cybersecurity
+
+ SEO & Digital Strategy
+
+ Python Programming & Tech Projects
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'Rayjay2003' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayjay2003&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'Rayjay2003' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayjay2003&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayjay2003&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🐦 Latest Tweet
@@ -63,58 +77,79 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&color=00CED1">
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/-React Native-05122A?style=for-the-badge&color=3CB371">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
-
-</div>
+```json
+{
+  "frontend": [
+    "Next.js",
+    "HTML5",
+    "CSS3",
+    "React",
+    "Tailwind"
+  ],
+  "backend": [
+    "Node.js",
+    "Django",
+    "Redis",
+    "SQLite",
+    "Express",
+    "NestJS",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "GitHub Actions",
+    "AWS"
+  ],
+  "ai/ml": [
+    "PyTorch",
+    "OpenCV",
+    "Pandas",
+    "NumPy",
+    "Hugging Face",
+    "TensorFlow",
+    "Keras"
+  ],
+  "mobile": [
+    "React Native"
+  ],
+  "languages": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "R",
+    "Java"
+  ]
+}
+```
 
 ## 🌐 Socials
 
-<div align="center">
+```javascript
+const socials = {
+  github: "Rayjay2003",
+  linkedin: "raymond-fafi-358a10269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  twitter: "rayxworld?t=wVxajOjE9Xn2vYwuLqJbuA&s=09",
+  instagram: "rayxw0rld?igsh=N2IxaWkyZGZtNWoz",
+  facebook: "profile.php?id=61579747941198",
+  discord: "1304366343591825449",
+}
+```
 
-<a href="https://github.com/Rayjay2003"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/raymond-fafi-358a10269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/rayxworld?t=wVxajOjE9Xn2vYwuLqJbuA&s=09"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
-
+<div>
+<a href="https://www.linkedin.com/in/raymond-fafi-358a10269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Rayjay2003"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://x.com/rayxworld?t=wVxajOjE9Xn2vYwuLqJbuA&s=09"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.instagram.com/rayxw0rld?igsh=N2IxaWkyZGZtNWoz"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=61579747941198"><img src="https://img.shields.io/badge/facebook-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://discord.com/users/1304366343591825449"><img src="https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
+```javascript
+const contact = {
+  email: "fafiraymond7@gmail.com",
+  phone: "+2348023085321",
+}
+```
 
-**Email:** fafiraymond7@gmail.com
-**Phone:** +2348023085321
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'Rayjay2003' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Rayjay2003&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/Rayjay2003?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
-</div>
+process.exit(0); // Until next time 👋
+```
